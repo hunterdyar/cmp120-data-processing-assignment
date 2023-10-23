@@ -52,7 +52,8 @@ Function reference.
 
 Write functions that can do the following:
 
-- Return the average number of births on any given day of the year.
+- When given a list of numbers, return the average
+- Return the average number of births on any given day (month, day) of the year (average of all years).
 - Return the average number of births on any given day of the week.
 - Return the average number of births when given a specific month and day (average for all years)
 
@@ -62,12 +63,10 @@ When the program runs, it should use these functions to complete the following a
 
 - What single day in the dataset had the fewest births?
 - Report which day of the week contains the most births (as a complete sentence. IE: "Monday" not "1")
-- Report on which day of the year has the fewest births, on average.
-- How many fewer births happen on Dec. 25th than the average of that day of week 
+- How many fewer births happen on Dec. 25th than the average?
+  - Compared to what? Average of all days? Average of other days in December? You decide what is meaningful.
 
-You are writing a simple analysis of data, but you must write it in a sensible and re-usable way.
-
-Your 
+The reports are just calculated outputs as full sentences. You don't need to then go "therefore...." or explain why. That is what the parson using this program will hypothetically do.
 
 ## Getting Started
 When you get any individual line, you will want to use the split function to split it by commas.
