@@ -50,6 +50,8 @@ Function reference.
 
 ## The Assignment
 
+Add a comment with your name at the top of each of your files (main and process_strings)
+
 Write functions that can do the following:
 
 - When given a list of numbers, return the average
