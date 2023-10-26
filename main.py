@@ -1,8 +1,6 @@
 # This is the code that will run.
 import process_strings
 def main():
-    x = process_strings.number_to_day_of_week("1")
-    print(x)
     print("Report which day of the week contains the most births (as a complete sentence. IE: “Monday” not “1”)")
     print("Report on which day of the year has the fewest births, on average.")
     print("Do fewer births happen on Christmas? July 4th? (Other holidays that land on the same day each year?)")
