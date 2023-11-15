@@ -57,7 +57,6 @@ Write functions that can do the following:
 - When given a list of numbers, return the average
 - Return the average number of births on any given day (month, day) of the year (average of all years).
 - Return the average number of births on any given day of the week.
-- Return the average number of births when given a specific month and day (average for all years)
 
 When the program runs, it should use these functions to complete the following analysis:
 
